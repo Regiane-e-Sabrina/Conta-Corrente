@@ -1,0 +1,15 @@
+h1, h2, h3{
+	color: purple;
+}
+
+#container {
+	display: flex;
+	width: 40%;
+	height: 20%;
+}
+
+#inicio {
+	flex: 10%;
+	margin: 5px;
+	padding: 20px;
+}
